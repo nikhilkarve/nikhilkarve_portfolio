@@ -236,6 +236,13 @@ h2 {
 	color: white;
 }
 
+.project-content ul {
+	margin-bottom: 10px;
+}
+.project-content a {
+	text-decoration: underline;
+}
+
 .spanTest {
 }
 
